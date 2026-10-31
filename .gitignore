@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+delhi_ncr_aqi_dataset.csv
+engineered_aqi_features.pkl
+predictions_2025.pkl
+aqi_env/
+venv/
+.venv/
+.pytest_cache/

@@ -1,0 +1,13 @@
+# The committed model (aqi_forecast_model.pkl) was pickled with this exact scikit-learn
+# version. Pickles are version-sensitive, so keep this pinned unless you re-run export_model.py.
+scikit-learn==1.9.1
+
+pandas
+numpy
+joblib
+fastapi
+uvicorn
+matplotlib
+seaborn
+# Optional: step5_train.py uses LightGBM if installed, otherwise falls back to scikit-learn.
+# lightgbm
